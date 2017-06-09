@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey this is new test file conflecting
+=======
+hey this is a test file
+>>>>>>> 12a6e605590e80b7f8c5947b80a9368f4b01b2c7
